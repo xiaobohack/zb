@@ -1,0 +1,147 @@
+#EXTM3U
+#EXTINF:-1 ,北京卫视蓝光1
+http://117.169.119.199:8080/live/hdbeijingstv/index.m3u8
+#EXTINF:-1 ,北京卫视蓝光2
+http://111.12.102.68:6610/PLTV/77777777/224/3221225664/index.m3u8?
+#EXTINF:-1 ,北京卫视蓝光3
+http://111.12.102.68:6610/PLTV/77777777/224/3221225651/index.m3u8?
+#EXTINF:-1 ,北京冬奥蓝光1
+http://111.12.102.68:6610/PLTV/77777777/224/3221225667/index.m3u8?
+#EXTINF:-1 ,北京冬奥蓝光2
+http://117.169.119.199:8080/live/HD-8000k-1080P-beijingjishi/index.m3u8
+#EXTINF:-1 ,天津卫视蓝光1
+http://39.134.66.66/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 ,天津卫视蓝光2
+http://112.17.40.140/PLTV/88888888/224/3221226412/index.m3u8
+#EXTINF:-1 ,天津卫视蓝光3
+http://111.12.102.68:6610/PLTV/77777777/224/3221225675/index.m3u8?
+#EXTINF:-1 ,东方卫视蓝光1
+http://39.135.138.59:18890/PLTV/88888910/224/3221225659/index.m3u8
+#EXTINF:-1 ,东方卫视蓝光2
+http://111.12.102.68:6610/PLTV/77777777/224/3221225682/index.m3u8?
+#EXTINF:-1 ,东方卫视蓝光3
+http://111.12.102.68:6610/PLTV/77777777/224/3221225718/index.m3u8?
+#EXTINF:-1 ,湖南卫视蓝光1
+http://112.17.40.140/PLTV/88888888/224/3221226553/index.m3u8
+#EXTINF:-1 ,湖南卫视蓝光2
+http://111.12.102.68:6610/PLTV/77777777/224/3221225692/index.m3u8?
+#EXTINF:-1 ,湖南卫视蓝光3
+http://111.12.102.68:6610/PLTV/77777777/224/3221225719/index.m3u8?
+#EXTINF:-1 ,浙江卫视蓝光1
+http://211.137.115.110:8080/gitv_live/G_ZHEJIANG-MD/G_ZHEJIANG-MD.m3u8
+#EXTINF:-1 ,浙江卫视蓝光2
+http://223.110.243.173/PLTV/3/224/3221227215/index.m3u8
+#EXTINF:-1 ,浙江卫视蓝光3
+http://111.12.102.68:6610/PLTV/77777777/224/3221225695/index.m3u8?
+#EXTINF:-1 ,江苏卫视蓝光1
+http://39.134.39.39/PLTV/88888888/224/3221226157/index.m3u8
+#EXTINF:-1 ,江苏卫视蓝光2
+http://112.17.40.140/PLTV/88888888/224/3221226414/index.m3u8
+#EXTINF:-1 ,江苏卫视蓝光3
+http://111.12.102.68:6610/PLTV/77777777/224/3221225636/index.m3u8?
+#EXTINF:-1 ,东南卫视蓝光1
+http://117.169.124.37:6610/ysten-businessmobile/live/dongnanstv/yst.m3u8
+#EXTINF:-1 ,东南卫视蓝光2
+http://111.12.102.68:6610/PLTV/77777777/224/3221225696/index.m3u8?
+#EXTINF:-1 ,东南卫视蓝光3
+http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
+#EXTINF:-1 ,山东卫视蓝光1
+http://211.137.115.110:8080/gitv_live/G_SHANDONG-MD/G_SHANDONG-MD.m3u8
+#EXTINF:-1 ,山东卫视蓝光2
+http://111.12.102.68:6610/PLTV/77777777/224/3221225642/index.m3u8?
+#EXTINF:-1 ,山东卫视蓝光3
+http://111.12.102.68:6610/PLTV/77777777/224/3221225672/index.m3u8?
+#EXTINF:-1 ,湖北卫视蓝光1
+http://111.12.102.68:6610/PLTV/77777777/224/3221225689/index.m3u8?
+#EXTINF:-1 ,湖北卫视蓝光2
+http://111.12.102.68:6610/PLTV/77777777/224/3221225721/index.m3u8?
+#EXTINF:-1 ,湖北卫视蓝光3
+http://223.110.243.171/PLTV/3/224/3221227211/index.m3u8
+#EXTINF:-1 ,安徽卫视蓝光1
+http://39.134.66.66/PLTV/88888888/224/3221225675/index.m3u8
+#EXTINF:-1 ,安徽卫视蓝光3
+http://111.12.102.68:6610/PLTV/77777777/224/3221225671/index.m3u8?
+#EXTINF:-1 ,广东卫视蓝光1
+http://39.134.66.66/PLTV/88888888/224/3221225667/index.m3u8
+#EXTINF:-1 ,广东卫视蓝光2
+http://112.17.40.140/PLTV/88888888/224/3221226225/index.m3u8
+#EXTINF:-1 ,广东卫视蓝光3
+http://111.12.102.68:6610/PLTV/77777777/224/3221225666/index.m3u8?
+#EXTINF:-1 ,深圳卫视蓝光1
+http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8
+#EXTINF:-1 ,深圳卫视蓝光2
+http://223.110.243.171/PLTV/3/224/3221227217/index.m3u8
+#EXTINF:-1 ,深圳卫视蓝光3
+http://111.12.102.68:6610/PLTV/77777777/224/3221225691/index.m3u8?
+#EXTINF:-1 ,辽宁卫视蓝光1
+http://111.12.102.68:6610/PLTV/77777777/224/3221225639/index.m3u8?
+#EXTINF:-1 ,辽宁卫视蓝光2
+http://111.12.102.68:6610/PLTV/77777777/224/3221225779/index.m3u8?
+#EXTINF:-1 ,辽宁卫视蓝光3
+http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227410/index.m3u8
+#EXTINF:-1 ,龙江卫视蓝光1
+http://39.134.116.30:8080/PLTV/88888910/224/3221225690/index.m3u8
+#EXTINF:-1 ,龙江卫视蓝光2
+http://112.17.40.140/PLTV/88888888/224/3221226555/index.m3u8
+#EXTINF:-1 ,龙江卫视蓝光3
+http://111.12.102.68:6610/PLTV/77777777/224/3221225686/index.m3u8?
+#EXTINF:-1 ,吉林卫视蓝光1
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=25&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 ,吉林卫视蓝光2
+http://116.199.5.52:8114/00000000/index.m3u8?&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;FvSeid=5abd1660af1babb4&amp;Fsv_filetype=1&amp;Fsv_ctype=LIVES&amp;Fsv_cid=0&amp;Fsv_chan_hls_se_idx=25&amp;Fsv_rate_id=0&amp;Fsv_SV_PARAM1=0&amp;Fsv_ShiftEnable=0&amp;Fsv_ShiftTsp=0&amp;Provider_id=&amp;Pcontent_id=&amp;Fsv_CMSID=&amp;Fsv_otype=1
+#EXTINF:-1 ,吉林卫视蓝光3
+http://39.134.168.91/PLTV/1/224/3221225586/index.m3u8
+#EXTINF:-1 ,江西卫视蓝光1
+http://111.12.102.68:6610/PLTV/77777777/224/3221225669/index.m3u8?
+#EXTINF:-1 ,江西卫视蓝光2
+http://112.17.40.140/PLTV/88888888/224/3221226557/index.m3u8
+#EXTINF:-1 ,江西卫视蓝光3
+http://112.17.40.8:80/PLTV/88888888/224/3221226557/index.m3u8
+#EXTINF:-1 ,河南卫视蓝光1
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=19&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 ,河南卫视超清2
+http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8
+#EXTINF:-1 ,海南卫视蓝光1
+http://39.134.39.37/PLTV/88888888/224/3221226301/index.m3u8
+#EXTINF:-1 ,海南卫视蓝光2
+http://39.134.39.39/PLTV/88888888/224/3221226301/index.m3u8
+#EXTINF:-1 ,云南卫视蓝光1
+http://39.130.215.166:6410/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
+#EXTINF:-1 ,云南卫视超清1
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225838/index.m3u8
+#EXTINF:-1 ,贵州卫视蓝光1
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=41&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 ,重庆卫视蓝光1
+http://111.12.102.68:6610/PLTV/77777777/224/3221225745/index.m3u8?
+#EXTINF:-1 ,重庆卫视蓝光2
+http://ivi.bupt.edu.cn/hls/cqhd.m3u8
+#EXTINF:-1 ,陕西卫视高清2
+http://112.17.40.140/PLTV/88888888/224/3221226177/index.m3u8
+#EXTINF:-1 ,甘肃卫视蓝光1
+http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8
+#EXTINF:-1 ,甘肃卫视超清2
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=142&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 ,宁夏卫视超清1
+http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225842/index.m3u8
+#EXTINF:-1 ,宁夏卫视超清2
+http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
+#EXTINF:-1 ,青海卫视超清2
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=206&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 ,青海卫视超清2
+http://39.134.168.91/PLTV/1/224/3221225622/index.m3u8
+#EXTINF:-1 ,新疆卫视高清2
+http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
+#EXTINF:-1 ,西藏卫视高清2
+http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
+#EXTINF:-1 ,内蒙卫视蓝光1
+http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
+#EXTINF:-1 ,内蒙卫视超清2
+http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225836/index.m3u8
+#EXTINF:-1 ,山西卫视高清2
+http://39.134.168.91/PLTV/1/224/3221225646/index.m3u8
+#EXTINF:-1 ,广西卫视高清2
+http://39.134.168.91/PLTV/1/224/3221225598/index.m3u8
+#EXTINF:-1 ,南方卫视高清2
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
+#EXTINF:-1 ,兵团卫视高清2
+http://39.134.168.91/PLTV/1/224/3221225634/index.m3u8

@@ -1,0 +1,69 @@
+{
+    "data": [{
+            "name": "修复影视轮播(Lin自用)",
+            "pic": "https://api.mtyqx.cn/api/random.php",
+            "url": "https://cdn.jsdelivr.net/gh/xiaobohack/zb@master/zb/douyu.txt",
+            "type": "txt",
+            "subTitle": "经典动画电影整理中",
+            "click": true,
+            "autoNext": true,
+            "decoder": 0,
+            "webPlus": {}
+        },
+        {
+            "name": "(新增)央视蓝光(Lin自用)",
+            "pic": "https://api.dujin.org/bing/m.php",
+            "url": "https://cdn.jsdelivr.net/gh/xiaobohack/zb@master/zb/央视蓝光.m3u",
+            "type": "m3u",
+            "subTitle": "",
+            "click": true,
+            "autoNext": false,
+            "decoder": 1,
+            "webPlus": {}
+        },
+        {
+            "name": "央卫(更新:20210205)",
+            "pic": "https://api.mtyqx.cn/api/random.php",
+            "url": "https://cdn.jsdelivr.net/gh/xiaobohack/zb@master/zb/live.m3u",
+            "type": "m3u",
+            "subTitle": "经典动画电影整理中",
+            "click": true,
+            "autoNext": false,
+            "decoder": 0,
+            "webPlus": {}
+        },
+        {
+            "name": "地方卫视(Lin自用)",
+            "pic": "https://api.dujin.org/bing/m.php",
+            "url": "https://cdn.jsdelivr.net/gh/xiaobohack/zb@master/zb/地方卫视.m3u",
+            "type": "m3u",
+            "subTitle": "经典动画电影整理中",
+            "click": true,
+            "autoNext": false,
+            "decoder": 0,
+            "webPlus": {}
+        },
+        {
+            "name": "电影轮播(Lin自用)",
+            "pic": "https://api.mtyqx.cn/api/random.php",
+            "url": "https://cdn.jsdelivr.net/gh/xiaobohack/zb@master/zb/电影轮播.m3u",
+            "type": "m3u",
+            "subTitle": "经典动画电影整理中",
+            "click": true,
+            "autoNext": false,
+            "decoder": 0,
+            "webPlus": {}
+        },
+        {
+            "name": "NEWTV(Lin自用)",
+            "pic": "https://api.mtyqx.cn/api/random.php",
+            "url": "https://cdn.jsdelivr.net/gh/xiaobohack/zb@master/zb/NEW.m3u",
+            "type": "m3u",
+            "subTitle": "经典动画电影整理中",
+            "click": true,
+            "autoNext": false,
+            "decoder": 0,
+            "webPlus": {}
+        }
+    ]
+}

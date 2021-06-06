@@ -1,0 +1,21 @@
+{
+    "data": [{
+            "name": "热血动漫",
+            "url": "http://tx2play1.douyucdn.cn/live/7528160rXCwPshQQ.xs?uuid=",
+            "parse": true
+        },
+
+        {
+            "name": "圣斗士",
+            "url": "http://tx2play1.douyucdn.cn/live/3949681rLiDUtGYo.xs?uuid=",
+            "parse": true
+        },
+
+        {
+            "name": "经典动漫轮播",
+            "url": "http://tx2play1.douyucdn.cn/live/2317390rLicdlz2K.xs?uuid=",
+            "parse": true
+        }
+
+    ]
+}

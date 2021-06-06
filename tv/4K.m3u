@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,咪咕4K
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226399/1.m3u8
+#EXTINF:-1,爱4K
+http://111.20.105.60:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1,纯享4K
+http://111.12.102.68:6610/PLTV/77777777/224/3221225726/index.m3u8?
+#EXTINF:-1,精彩电影4K
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
+#EXTINF:-1,欢笑4K
+http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
