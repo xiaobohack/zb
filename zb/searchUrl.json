@@ -1,5 +1,6 @@
 {
-    "data": [{
+    "data": [
+        {
             "id": 1,
             "name": "百度云",
             "url": "https://m3u8.apibdzy.com/api.php/provide/vod/at/xml",
@@ -7,7 +8,6 @@
             "click": true,
             "wePlus": {}
         },
-
         {
             "id": 1,
             "name": "唐朝云",
@@ -32,7 +32,6 @@
             "click": true,
             "wePlus": {}
         },
-
         {
             "id": 1,
             "name": "八戒云",
@@ -41,7 +40,6 @@
             "click": true,
             "wePlus": {}
         },
-
         {
             "id": 1,
             "name": "快云",
