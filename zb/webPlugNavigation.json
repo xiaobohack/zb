@@ -1,5 +1,6 @@
 {
-    "data": [{
+    "data": [
+        {
             "name": "94神马(规则)",
             "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
             "type": "webPlug",
@@ -15,10 +16,12 @@
                 "cate_url": "http://1090ys1.com/whole/cateNav_cateArea_cateCate__cateYear___0_id_catePage.html",
                 "web_name": "94神马",
                 "kw": "wd",
-                "params": [{
-                    "key": "key",
-                    "value": "value"
-                }],
+                "params": [
+                    {
+                        "key": "key",
+                        "value": "value"
+                    }
+                ],
                 "navHtml": {
                     "name": [
                         "电影",
@@ -131,10 +134,12 @@
                 "cate_url": "",
                 "web_name": "奈非",
                 "kw": "wd",
-                "params": [{
-                    "key": "key",
-                    "value": "value"
-                }],
+                "params": [
+                    {
+                        "key": "key",
+                        "value": "value"
+                    }
+                ],
                 "navHtml": {
                     "name": [
                         "电影",
@@ -245,10 +250,12 @@
                 "cate_url": "",
                 "web_name": "爱迪影院",
                 "kw": "wd",
-                "params": [{
-                    "key": "key",
-                    "value": "value"
-                }],
+                "params": [
+                    {
+                        "key": "key",
+                        "value": "value"
+                    }
+                ],
                 "navHtml": {
                     "name": [
                         "电影",
@@ -368,10 +375,12 @@
                 "cate_url": "https://www.4kyu.cc/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
                 "web_name": "一只鱼",
                 "kw": "wd",
-                "params": [{
-                    "key": "key",
-                    "value": "value"
-                }],
+                "params": [
+                    {
+                        "key": "key",
+                        "value": "value"
+                    }
+                ],
                 "navHtml": {
                     "name": [
                         "全部",
@@ -494,10 +503,12 @@
                 "cate_url": "http://9ehao.com/vodshow/cateNav/area/cateArea/page/catePage/year/cateYear/class/cateCate",
                 "web_name": "9亿看看",
                 "kw": "wd",
-                "params": [{
-                    "key": "key",
-                    "value": "value"
-                }],
+                "params": [
+                    {
+                        "key": "key",
+                        "value": "value"
+                    }
+                ],
                 "navHtml": {
                     "name": [
                         "国语配音",
@@ -612,10 +623,12 @@
                 "cate_url": "",
                 "web_name": "555电影",
                 "kw": "wd",
-                "params": [{
-                    "key": "key",
-                    "value": "value"
-                }],
+                "params": [
+                    {
+                        "key": "key",
+                        "value": "value"
+                    }
+                ],
                 "navHtml": {
                     "name": [
                         "蓝光电影",
@@ -744,10 +757,12 @@
                 "cate_url": "",
                 "web_name": "长资源",
                 "kw": "wd",
-                "params": [{
-                    "key": "key",
-                    "value": "value"
-                }],
+                "params": [
+                    {
+                        "key": "key",
+                        "value": "value"
+                    }
+                ],
                 "navHtml": {
                     "name": [
                         "最新电影",
@@ -862,10 +877,12 @@
                 "cate_url": "https://www.zhaikanys.com/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
                 "web_name": "宅看影视",
                 "kw": "wd",
-                "params": [{
-                    "key": "key",
-                    "value": "value"
-                }],
+                "params": [
+                    {
+                        "key": "key",
+                        "value": "value"
+                    }
+                ],
                 "navHtml": {
                     "name": [
                         "电影",
@@ -961,7 +978,6 @@
                     "video": {}
                 }
             }
-
         }
     ]
 }
