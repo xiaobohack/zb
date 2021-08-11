@@ -7,7 +7,7 @@
       "api": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/",
       "jiexiUrl": "https://jx.7kjx.com/?url=",
       "group": true,
-      "status": false,
+      "status": true,
       "reverseOrder": true
     },
     {
